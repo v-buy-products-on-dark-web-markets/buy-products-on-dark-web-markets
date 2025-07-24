@@ -133,4 +133,6 @@ Plase contribute and add stars to this repo.
 
 
 
-Update: url is now clickable
+
+
+Update:  07/24/2025 Hey everyone, the broken link has been fixed.

@@ -135,4 +135,6 @@ Plase contribute and add stars to this repo.
 
 
 
-Update:  07/24/2025 Hey everyone, the broken link has been fixed.
+
+
+Update:  04 August 2025 link is live and reachable

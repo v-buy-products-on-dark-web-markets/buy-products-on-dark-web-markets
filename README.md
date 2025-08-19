@@ -139,4 +139,6 @@ Plase contribute and add stars to this repo.
 
 
 
-Update:  13.08.2025 Link is now clickable
+
+
+Update:  19 August 2025 Link validation
